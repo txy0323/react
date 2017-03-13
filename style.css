@@ -1,0 +1,78 @@
+.one{
+	margin-bottom: 1em;
+	overflow: hidden;
+}
+
+.booksSummary{
+	overflow: hidden;
+	text-align: center;
+	height:1em;
+	line-height:1em;
+}
+
+.booksTitle{
+	font-size:1.5em;
+	height: 2em;
+	line-height: 2em;
+}
+
+.detailflex{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	overflow: hidden;
+}
+
+.img-rounded{
+	display: block;
+	float: left;
+	width: 30%;
+	overflow: hidden;
+}
+
+.right{
+	width:60%;
+	float: right;
+	overflow: hidden;
+	font-size: 16px;
+}
+
+.detailtitle{
+	font-size: 2.5em;
+}
+
+.publisher{
+	font-size: 1.5em;
+}
+
+.text-primary{
+	font-size: 1.2em;
+	color: #333;
+}
+
+.url{
+	font-size: 2em;
+}
+
+.imgmusic{
+	display: block;
+	float: left;
+	width: 10%;
+	overflow: hidden;
+}
+
+#search{
+	width: 30%;
+	height:3em;
+	margin: 0 auto;
+}
+
+#search input{
+	height: 2em;
+}
+
+.form-control{
+	margin-top: 2em;
+	width: 80%;
+}
+
